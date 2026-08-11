@@ -53,9 +53,9 @@ EXCLUDED_COINS = {
 # ─── Fallback List ────────────────────────────────────────────────
 # Used only if the API call to fetch tickers fails
 FALLBACK_SYMBOLS = [
-    "BTC/USDT", "ETH/USDT", "BNB/USDT", "SOL/USDT", "XRP/USDT",
-    "ADA/USDT", "DOGE/USDT", "TRX/USDT", "AVAX/USDT", "LINK/USDT",
-    "LTC/USDT", "UNI/USDT", "ATOM/USDT", "XLM/USDT", "NEAR/USDT"
+    "BTC/USDT", "ETH/USDT", "SOL/USDT",
+    "ADA/USDT", "AVAX/USDT", "LINK/USDT",
+    "LTC/USDT", "UNI/USDT", "ATOM/USDT", "NEAR/USDT"
 ]
 
 
